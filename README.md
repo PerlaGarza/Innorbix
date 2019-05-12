@@ -120,8 +120,8 @@ Es necesario de lo siguiente, para poder desarrollar el proyecto:
 •	La codificación del programa se llevará a cabo mediante el lenguaje de programación PHP
 
 El sistema y sus mejoras fueron desarrolladas en 
-●	PHP
-●	Framework de Bootstrap
-●	Base de datos MySQL 
-●	Para el email se usó SMTP por medio de API usando SendGrid como proveedor de servicio SMTP
-●	Encriptación se usaron funciones nativas de PHP y algoritmos de encriptación como SHA-2
+●	PHP.
+●	Framework de Bootstrap.
+●	Base de datos MySQL .
+●	Para el email se usó SMTP por medio de API usando SendGrid como proveedor de servicio SMTP.
+●	Encriptación se usaron funciones nativas de PHP y algoritmos de encriptación como SHA-2.
