@@ -1,6 +1,6 @@
 # Innorbix
 
-Objetivo: Diseñar un plan de acción para el diseño, desarrollo, pruebas e implementación de los requisitos definidos dentro de la solución.
+Objetivo: Diseñar un plan de acción para el diseño, desarrollo, pruebas e implementación de los requisitos definidos dentro de la solución..
 
 Procedimiento: Deberás seleccionar una empresa u organización donde llevarás a cabo tu proyecto, identificar la necesidad que se requiere mitigar, desarrollar la aplicación e implementarla de acuerdo a lo aprendido en el certificado.
 
